@@ -1,2 +1,2 @@
 # batch-norm
-Batch Normalization for DCGANs in TensorFlow
+Batch Normalization for standard neural nets using TensorFlow
